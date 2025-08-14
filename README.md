@@ -1,31 +1,30 @@
-# 👋 Hey, I'm Tien.
+# Hi, I'm Tien Tran Minh 
 
-I'm not just learning to write code. I'm learning to build things that matter.
+**Focusing on AI Engineering & Product Development**
 
----
+## About Me
 
-## 🔭 A few things I've shipped
+I'm an aspiring **AI Engineer** passionate about developing intelligent systems that solve real-world problems. My journey focuses on building practical applications using Large Language Models, RAG architectures, and machine learning.
 
-### 🎓 VSFC Analyzer
-Turned a student feedback dataset into a Streamlit app that classifies sentiment & topics in real-time.  
-> Designed for educational insights, not just model accuracy.
+**Current Focus:** Building toward becoming a solid **LLM Engineer** who can fine-tune, evaluate, and deploy AI systems effectively.
 
-→ [Live demo](https://github.com/TMTien31/VSFC-Analyzer)
+**Long-term Vision:** Growing into an **AI Product Architect** — someone who connects models with missions and creates meaningful impact through technology.
 
----
+## Featured Projects
 
-### 💉 Biomedical QA Experiments (BioASQ)
-Built yes/no and extractive QA pipelines on biomedical texts.  
-From fine-tuning PubMedBERT to building custom eval metrics (strict, lenient, MRR).
+### History Question Generator
+Intelligent FastAPI application for automated Vietnamese history exam preparation using Google Gemini 2.0 and LangChain RAG architecture.
 
-→ [Space](https://huggingface.co/spaces/tmt3103/BioASQ-YesNo-Classify)  
-→ [Colab notebook](https://colab.research.google.com/drive/1Zq3CskOXCEYRMDOUrRTYOzmV8q5cVZe1)
+### QuestionCreator  
+Interview preparation system that generates Q&A pairs from PDF documents with automated processing pipeline.
 
----
+### MedChatBot
+Medical question-answering system combining Google Gemini 2.5 Pro with Pinecone vector database for healthcare information retrieval.
 
-## 🧭 What I'm building toward
+### VSFC Analyzer
+Vietnamese Student Feedback Classification system with fine-tuned PhoBERT models achieving 94.44% accuracy for sentiment analysis.
 
-My short-term goal is to become a **solid LLM engineer** who can fine-tune, evaluate, and deploy.  
-In the long term, I aim to grow into an **AI Product Architect** — someone who connects models with missions.
+### Biomedical QA (BioASQ)
+Biomedical question-answering pipeline with fine-tuned PubMedBERT and custom evaluation metrics for educational insights.
 
 ---
