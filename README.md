@@ -19,7 +19,7 @@ Intelligent FastAPI application for automated Vietnamese history exam preparatio
 Interview preparation system that generates Q&A pairs from PDF documents with automated processing pipeline.
 
 ### MedChatBot
-Medical question-answering system combining Google Gemini 2.5 Pro with Pinecone vector database for healthcare information retrieval.
+Medical question-answering system combining Google Gemini 2.0 Flash Lite with Pinecone vector database for healthcare information retrieval.
 
 ### VSFC Analyzer
 Vietnamese Student Feedback Classification system with fine-tuned PhoBERT models achieving 94.44% accuracy for sentiment analysis.
