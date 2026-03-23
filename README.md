@@ -70,22 +70,40 @@
 
 ## 🔥 Projects
 
+### 🏫 SIGN TOGETHER &nbsp;·&nbsp; SudoCode 2025 &nbsp;·&nbsp; Team size: 2 &nbsp;·&nbsp; `09/2025 – 12/2025`
+
+*A real-time AI-powered platform for learning Vietnamese Sign Language, combining pose recognition, interactive flashcards, and an intelligent RAG/MCP chatbot.*
+
+| | |
+|---|---|
+| **Role** | Team Lead · AI Engineer · Backend Developer |
+| **Tech** | FastAPI · PostgreSQL · Qdrant · LangChain · Gemini · PyTorch · MediaPipe · OpenCV |
+| **Responsibility** | Led product ideation for UI/UX flows and core features. Architected the backend system. Developed the multi-agent system and RAG/MCP pipeline supporting 10 chatbot capabilities. Processed the dataset and trained the sign-recognition model. |
+| **Outcome** | 🥈 2nd Prize – SudoCode 2025 × Google DevFest HCMC · [▶ YouTube Demo](https://youtu.be/FznN2laJbZM?si=lfFTl5Ml9gutmbbY) |
+
 <div align="center">
-
   <a href="https://github.com/TMTien31/SignTogether">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TMTien31&repo=SignTogether&theme=merko" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TMTien31&repo=SignTogether&theme=merko" />
   </a>
-  <a href="https://github.com/TMTien31/MedChatBot">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TMTien31&repo=MedChatBot&theme=radical" />
-  </a>
-
 </div>
 
-<br>
+---
 
-> 🎬 **Sign Together** — [YouTube Demo](https://youtu.be/FznN2laJbZM?si=lfFTl5Ml9gutmbbY) · Awarded **2nd Prize** at SudoCode 2025 × Google DevFest HCMC
->
-> 🤖 **Med Chatbot** — [HuggingFace Demo](https://huggingface.co/spaces/tmt3103/MedChatBot)
+### 🤖 MED CHATBOT &nbsp;·&nbsp; Personal Project &nbsp;·&nbsp; `07/2025 – 08/2025`
+
+*A RAG-based medical chatbot that answers health-related questions using medical literature and vector search.*
+
+| | |
+|---|---|
+| **Tech** | Flask · LangChain · Pinecone · Google Gemini · Sentence-Transformers |
+| **Responsibility** | Designed RAG architecture for medical Q&A. Implemented document ingestion pipeline and built Pinecone vector index. Integrated Google Gemini for answer generation. |
+| **Links** | [GitHub](https://github.com/TMTien31/MedChatBot) · [🤗 HuggingFace Demo](https://huggingface.co/spaces/tmt3103/MedChatBot) |
+
+<div align="center">
+  <a href="https://github.com/TMTien31/MedChatBot">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TMTien31&repo=MedChatBot&theme=radical" />
+  </a>
+</div>
 
 ---
 
@@ -96,3 +114,9 @@
 - 🎖️ "Sinh viên 5 tốt", "Thanh niên tiên tiến làm theo lời Bác", "Chiến sĩ giỏi – Mùa hè xanh 2024"
 
 ---
+
+## 💡 Favorite Quote
+
+> "I'm not the only dreamer"
+
+> "Don't limit your challenges — challenge your limits."
