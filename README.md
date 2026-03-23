@@ -107,6 +107,91 @@
 
 ---
 
+### 💬 CHAT TMT &nbsp;·&nbsp; Personal Project &nbsp;·&nbsp; `02/2026`
+
+*An intelligent conversational agent with two-level session memory management via structured summarization — enables long-term conversations without losing context.*
+
+| | |
+|---|---|
+| **Tech** | Python · OpenAI API · Streamlit · Pydantic · tiktoken |
+| **Responsibility** | Designed a 4-step query pipeline (Rewriter → Augmenter → Clarifier → Answer). Implemented two-level memory compression with structured JSON session schema. Built Streamlit UI with debug panel and session persistence. Wrote 123 unit tests. |
+
+<div align="center">
+  <a href="https://github.com/TMTien31/ChatTMT">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TMTien31&repo=ChatTMT&theme=onedark" />
+  </a>
+</div>
+
+---
+
+### ❓ QUESTION CREATOR &nbsp;·&nbsp; Personal Project
+
+*An AI-powered web app that auto-generates interview questions and answers from PDF documents using RAG architecture.*
+
+| | |
+|---|---|
+| **Tech** | FastAPI · LangChain · Google Gemini 2.0 · HuggingFace Embeddings · FAISS · PyPDF2 |
+| **Responsibility** | Built RAG pipeline for PDF ingestion, chunking, and Q&A generation. Integrated Gemini 2.0 Flash Lite for question refinement. Designed web interface with Jinja2 templating. |
+
+<div align="center">
+  <a href="https://github.com/TMTien31/QuestionCreator">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TMTien31&repo=QuestionCreator&theme=cobalt" />
+  </a>
+</div>
+
+---
+
+### 📖 STORY GENERATOR &nbsp;·&nbsp; Personal Project
+
+*A web app for creating and playing interactive choice-based stories, with full backend/frontend stack and database persistence.*
+
+| | |
+|---|---|
+| **Tech** | Python · JavaScript · CSS · HTML · Flask |
+| **Responsibility** | Built full-stack app with story creation, branching choices, and save/load from database. Designed frontend UI for interactive story playback. |
+
+<div align="center">
+  <a href="https://github.com/TMTien31/Story-Generator">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TMTien31&repo=Story-Generator&theme=dark" />
+  </a>
+</div>
+
+---
+
+### 📊 VSFC ANALYZER &nbsp;·&nbsp; Personal Project
+
+*A Streamlit app for fine-grained analysis of Vietnamese student feedback — classifies by sentiment and topic using fine-tuned PhoBERT models.*
+
+| | |
+|---|---|
+| **Tech** | Python · Streamlit · HuggingFace Transformers · PhoBERT · Plotly |
+| **Highlights** | Sentiment model: 94.44% accuracy · Topic model: 89.13% accuracy · Models hosted on HuggingFace Hub |
+| **Links** | [🤗 Sentiment Model](https://huggingface.co/tmt3103/VSFC-sentiment-classify-phoBERT) · [🤗 Topic Model](https://huggingface.co/tmt3103/VSFC-topic-classify-phoBERT) |
+
+<div align="center">
+  <a href="https://github.com/TMTien31/VSFC-Analyzer">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TMTien31&repo=VSFC-Analyzer&theme=gruvbox" />
+  </a>
+</div>
+
+---
+
+### 🎓 DS300 – RECOMMENDER SYSTEM &nbsp;·&nbsp; Course Project (UIT)
+
+*Course project on Recommender Systems — research and implementation of collaborative filtering and content-based methods.*
+
+| | |
+|---|---|
+| **Tech** | Python · Jupyter Notebook · Pandas · Scikit-Learn |
+
+<div align="center">
+  <a href="https://github.com/TMTien31/DS300-UIT-RecommenderSystem">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TMTien31&repo=DS300-UIT-RecommenderSystem&theme=radical" />
+  </a>
+</div>
+
+---
+
 ## 🏆 Awards
 
 - 🥈 **Second Prize** – SudoCode 2025 × Google DevFest HCMC *(Sign Together project)*
